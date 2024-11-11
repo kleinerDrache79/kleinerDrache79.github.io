@@ -8,6 +8,9 @@ categories: Nachtisch
 
 ![Linzertorte](/assets/images/Linzer.jpg)
 
+| VORBEREITUNG | ZUBEREITUNG | ZEIT GESAMT | PORTIONEN |
+|--------------|--------------|--------------|--------------|
+| 15 Minuten | 45 Minuten | 1 Stunde | 4 Personen |
 
 # Zutaten
 •	400g Mehl  
