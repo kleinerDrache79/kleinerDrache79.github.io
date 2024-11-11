@@ -2,70 +2,37 @@
 layout: post
 title: Linzertorte
 tags: Kuchen
+categories: Nachtisch
 ---
 
 
-Hier folgt ein Bild...
-
-<head>
-  <link rel="stylesheet" href="{{ '/assets/lib/style.css' | relative_url }}">
-</head>
+![Linzertorte](/assets/images/Linzer.jpg)
 
 
+# Zutaten
+•	400g Mehl  
+•	250g Zucker  
+•	250g Butter  
+•	250g Mandeln, gemahlen  
+•	2 Eier  
+•	1 Pck. Backpulver  
+•	1 Msp. Nelken, gemahlen  
+•	2 TL Kakaopulver  
+•	1 TL Zimt  
+•	Ca. 400g Marmelade
+  (Zwetschge und/oder Johannisbeere)  
+•	1 Eigelb  
 
-<div class="sticky-container">
-  <table>
-    <thead>
-      <tr>
-        <th>Zutaten</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>400g Mehl</td>
-      </tr>
-      <tr>
-        <td>250g Zucker</td>
-      </tr>
-      <tr>
-        <td>250g Butter</td>
-      </tr>
-      <tr>
-        <td>250g Mandeln, gemahlen</td>
-      </tr>
-      <tr>
-        <td>2 Eier</td>
-      </tr>
-      <tr>
-        <td>1 Pck. Backpulver</td>
-      </tr>
-      <tr>
-        <td>1 Msp. Nelken, gemahlen</td>
-      </tr>
-      <tr>
-        <td>2 TL Kakaopulver</td>
-      </tr>
-      <tr>
-        <td>1 TL Zimt</td>
-      </tr>
-      <tr>
-        <td>ca. 400g Marmelade</td>
-      </tr>
-      <tr>
-        <td>1 Eigelb</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
+Zutaten reichen für 1 großen **und** 1 kleinen Kuchen!
 
 
 # Zubereitung
-Aus den Zutaten (außer Marmelade und Eigelb) einen Mürbeteig herstellen. Kaltstellen. 
-2/3 des Teiges für den Boden verwenden: ausrollen und in die Form drücken. 
+Aus den Zutaten (außer Marmelade und Eigelb) einen Mürbeteig herstellen. Kaltstellen.   
+2/3 des Teiges für den Boden verwenden; ausrollen und in die Form drücken.   
 Die Marmelade darauf streichen (z. B. Zwetschge, Johannisbeere), ev. je Kuchen eine Andere. 
 Den Rest des Teigs ausrollen und Streifen für ein Gitter ausrädeln oder Formen ausstechen. 
-Diese auf die Marmelade legen. 
+Diese auf die Marmelade legen.   
+
 Das Gitter mit Eigelb bestreichen und bei 175 Grad ca. 40 Minuten backen.
 
     
