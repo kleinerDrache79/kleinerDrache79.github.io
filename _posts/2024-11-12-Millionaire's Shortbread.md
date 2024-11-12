@@ -38,8 +38,8 @@ Bild folgt...
 Die Backform (20x20) mit Backpapier auskleiden.  
 Butter und Zucker (mit K-Haken) vermengen. Mehl, Reismehl und Salz dazugeben und zu einem glatten, cremigen Teig verrühren.  
 Den Teig zu einem Rechteck formen und in Frischhaltefolie einschlagen. Für mind. 20 Minuten in den Kühlschrank legen. 
-Den gekühlten Teig gleichmäßig ausrollen und in die Backform einlegen.
-Auf der mittleren Schiene ca. 20 Minuten backen. Fingerprobe, da der Teig hell bleibt.  
+Den gekühlten Teig gleichmäßig ausrollen und in die Backform einlegen.  
+Auf der mittleren Schiene ca. 20 Minuten backen bei 180°C Umluft. Fingerprobe, da der Teig hell bleibt.  
 Das gebackene Shortbread für 15 Minuten in der Form im Gefrierfach auskühlen lassen.
 
 ## Zubereitung Salzkaramell   
