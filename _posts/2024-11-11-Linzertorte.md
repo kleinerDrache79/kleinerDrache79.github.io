@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Linzertorte
-tags: Kuchen
+tags: [Kuchen, Weihnachten]
 categories: Nachtisch
 ---
 
@@ -10,7 +10,8 @@ categories: Nachtisch
 
 | VORBEREITUNG | ZUBEREITUNG | ZEIT GESAMT | PORTIONEN |
 |--------------|--------------|--------------|--------------|
-| 15 Minuten | 45 Minuten | 1 Stunde | 4 Personen |
+| 20 Minuten | 40 Minuten | 1 Stunde | 4 Personen |
+|| 175°C O/U |||
 
 # Zutaten
 •	400g Mehl  
@@ -26,14 +27,14 @@ categories: Nachtisch
   (Zwetschge und/oder Johannisbeere)  
 •	1 Eigelb  
 
-Zutaten reichen für 1 großen **und** 1 kleinen Kuchen!
+Zutaten reichen für 1 großen **und** 1 kleinen Kuchen *oder* für ein Kuchenblech!
 
 
 # Zubereitung
 Aus den Zutaten (außer Marmelade und Eigelb) einen Mürbeteig herstellen. Kaltstellen.   
 2/3 des Teiges für den Boden verwenden; ausrollen und in die Form drücken.   
 Die Marmelade darauf streichen (z. B. Zwetschge, Johannisbeere), ev. je Kuchen eine Andere. 
-Den Rest des Teigs ausrollen und Streifen für ein Gitter ausrädeln oder Formen ausstechen. 
+Den Rest des Teigs ausrollen und Streifen für ein Gitter ausrädeln oder (Weihnachts-)Formen ausstechen. 
 Diese auf die Marmelade legen.   
 
 Das Gitter mit Eigelb bestreichen und bei 175 Grad ca. 40 Minuten backen.
