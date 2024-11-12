@@ -26,7 +26,7 @@ Bild folgt...
   
 
 ## dazu passt...
-• Feldsalat mit [warmer Salatsoße](2024-11-12-warme-Salatsoße.md)  
+• Feldsalat mit [warmer Salatsoße]({% post_url 2024-11-12-warme-Salatsoße %})  
 
 
 # Zubereitung
