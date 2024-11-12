@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Linzertorte
-tags: [Kuchen, Weihnachten]
+tags: [Kuchen, Weihnachten, Gebäck, Plätzchen]
 categories: Nachtisch
 ---
 
