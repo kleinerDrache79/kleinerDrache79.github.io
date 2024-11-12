@@ -1,6 +1,6 @@
 ---
 layout: post
-title: warme Salatsoße
+title: Warme Salatsoße
 tags: [Salat]
 categories: Beilage
 ---
