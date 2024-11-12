@@ -26,10 +26,9 @@ Bild folgt...
   
 
 ## dazu passt...
-• Feldsalat mit [warmer Salatsoße](/_posts/2024-11-12-warme-Salatsoße.md/)      
-   
+• Feldsalat mit [warmer Salatsoße](/2024-11-12-warme-Salatsoße.md)  
 
- 
+
 # Zubereitung
 Den Fonduetopf mit Knoblauch ausreiben. Wein in den Topf gießen und bei kleiner Hitze aufkochen lassen.   
 Nun den geriebenen Käse portionsweise hinzugeben und unter ständigem Rühren schmelzen lassen.   
