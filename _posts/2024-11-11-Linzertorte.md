@@ -6,7 +6,7 @@ categories: Nachtisch
 ---
 
 
-![Linzertorte](/assets/images/Linzer.jpg)
+Bild folgt...
 
 | VORBEREITUNG | ZUBEREITUNG | ZEIT GESAMT | PORTIONEN |
 |--------------|--------------|--------------|--------------|
@@ -14,16 +14,16 @@ categories: Nachtisch
 || 175°C O/U |||
 
 # Zutaten
-•	400g Mehl  
-•	250g Zucker  
-•	250g Butter  
-•	250g Mandeln, gemahlen  
+•	400 g Mehl  
+•	250 g Zucker  
+•	250 g Butter  
+•	250 g Mandeln, gemahlen  
 •	2 Eier  
 •	1 Pck. Backpulver  
 •	1 Msp. Nelken, gemahlen  
 •	2 TL Kakaopulver  
 •	1 TL Zimt  
-•	Ca. 400g Marmelade
+•	Ca. 400 g Marmelade
   (Zwetschge und/oder Johannisbeere)  
 •	1 Eigelb  
 
@@ -37,6 +37,6 @@ Die Marmelade darauf streichen (z. B. Zwetschge, Johannisbeere), ev. je Kuchen e
 Den Rest des Teigs ausrollen und Streifen für ein Gitter ausrädeln oder (Weihnachts-)Formen ausstechen. 
 Diese auf die Marmelade legen.   
 
-Das Gitter mit Eigelb bestreichen und bei 175 Grad ca. 40 Minuten backen.
+Das Gitter mit Eigelb bestreichen und bei 175°C O/U ca. 40 Minuten backen.
 
     

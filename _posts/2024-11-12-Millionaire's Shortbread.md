@@ -15,21 +15,21 @@ Bild folgt...
 
 # Zutaten
 ## Für das Shortbread
-• 135g Mehl  
-• 70g Reismehl  
-• 60g Rohrzucker  
-• 150g Butter, weich  
+• 135 g Mehl  
+• 70 g Reismehl  
+• 60 g Rohrzucker  
+• 150 g Butter, weich  
 • 1 Prise Salz  
 
 ## Für das Salzkaramell
-• 265g Zucker  
-• 175g Sahne  
-• 90g Butter  
-• 5g Salz  
+• 265 g Zucker  
+• 175 g Sahne  
+• 90 g Butter  
+• 5 g Salz  
 
 ## Für die Schoko-Decke
-• 200g Vollmilch-Kuvertüre  
-• 3g Meersalz-Flocken  
+• 200 g Vollmilch-Kuvertüre  
+• 3 g Meersalz-Flocken  
   
   
   

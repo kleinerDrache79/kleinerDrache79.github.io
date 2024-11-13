@@ -15,8 +15,8 @@ Bild folgt...
 
 # Zutaten
 ## Für das Fondue
-•	350g Greiezer (alt!)  
-•	350g Appenzeller (jung)  
+•	350 g Greiezer (alt!)  
+•	350 g Appenzeller (jung)  
 •	ca. ¼ Flasche Weißwein (trocken)  
 •	1 TL Stärke   
 •	1 EL Kirschwasser  
