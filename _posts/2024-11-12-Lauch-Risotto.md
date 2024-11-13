@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lauch-Risotto
-tags: [Risotto, Lauch, Pilze]
+tags: [Risotto, Lauch, Pilze, Reis]
 categories: Hauptgang
 ---
 
