@@ -50,7 +50,7 @@ Nun Butter und Salz unterrühren und für weitere 3 Minuten einköcheln lassen, 
 Das fertige Karamell in einer Metallschüssel beiseite stellen und ein bisschen auskühlen lassen. 
 Das Salzkaramell auf das ausgekühlte Shortbread (in der Form) geben. Die Form anschließend für mind. 15 Minuten ins Gefrierfach stellen.
 
-## Zubereitung Schoko-Decke: 
+## Zubereitung Schoko-Decke
 Über einem Wasserbad die Kuvertüre schmelzen und auf das ausgekühlte Salzkaramell geben.  
 Die Meersalzflocken sparsam auf der leicht angezogene Schokolade verteilen und die Form für weitere 25 Minuten ins Gefrierfach stellen.  
 

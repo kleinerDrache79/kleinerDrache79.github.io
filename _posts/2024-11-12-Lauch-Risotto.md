@@ -27,7 +27,8 @@ Bild folgt...
 • 60g Parmesan  
 • Salz und Pfeffer    
 
-## dazu passt...
+
+## dazu passt... 
 • Lamm- oder Rindersteacks    
 • Pilze: in Olivenöl mit Knoblauch anbraten und am Ende unter das Risotto ziehen  
 • Salbeisoße: Bratensatz mit Fond und Weißwein ablöschen, Knoblauch und Salbeiblätter dazu geben und 2EL Butter einrühren.   
