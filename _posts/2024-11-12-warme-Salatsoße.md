@@ -8,9 +8,9 @@ categories: Beilage
 
 Bild folgt...
 
-| VORBEREITUNG | ZUBEREITUNG | ZEIT GESAMT | PORTIONEN |
+| ARBEITSZEIT | KOCH-/BACKZEIT | RUHEZEIT | PORTIONEN |
 |--------------|--------------|--------------|--------------|
-| 5 Minuten | 10 Minuten | 15 Minuten | 4 Personen |
+| 5 Minuten | 10 Minuten | - | 4 Personen |
 
 
 # Zutaten

@@ -8,9 +8,9 @@ categories: Nachtisch
 
 ![New York Cheesecake](/assets/images/Cheesecake_Frischkäse.jpg)
 
-| VORBEREITUNG | ZUBEREITUNG | ZEIT GESAMT | PORTIONEN |
+| ARBEITSZEIT | KOCH-/BACKZEIT | RUHEZEIT | PORTIONEN |
 |--------------|--------------|--------------|--------------|
-| 30 Minuten | 60 Minuten | 90 Minuten | 6 Personen |
+| 30 Minuten | 60 Minuten | - | 6 Personen |
 || 170°C Umluft |||
 
 # Zutaten

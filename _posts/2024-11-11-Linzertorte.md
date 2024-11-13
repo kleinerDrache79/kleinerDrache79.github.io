@@ -8,9 +8,9 @@ categories: Nachtisch
 
 Bild folgt...
 
-| VORBEREITUNG | ZUBEREITUNG | ZEIT GESAMT | PORTIONEN |
+| ARBEITSZEIT | KOCH-/BACKZEIT | RUHEZEIT | PORTIONEN |
 |--------------|--------------|--------------|--------------|
-| 20 Minuten | 40 Minuten | 1 Stunde | 4 Personen |
+| 20 Minuten | 40 Minuten | 30 Minuten | 4 Personen |
 || 175°C O/U |||
 
 # Zutaten

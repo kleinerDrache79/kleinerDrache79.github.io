@@ -8,9 +8,9 @@ categories: Nachtisch
 
 Bild folgt...
 
-| VORBEREITUNG | ZUBEREITUNG | ZEIT GESAMT | PORTIONEN |
+| ARBEITSZEIT | KOCH-/BACKZEIT | RUHEZEIT | PORTIONEN |
 |--------------|--------------|--------------|--------------|
-| 55 Minuten | 20 Minuten | 150 Minuten | 6 Personen |
+| 55 Minuten | 20 Minuten | 75 Minuten | 6 Personen |
 || 180°C Umluft |||
 
 # Zutaten
