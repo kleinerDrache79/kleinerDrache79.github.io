@@ -18,9 +18,9 @@ Bild folgt...
 •	200 g Zucker  
 •	3 Eier  
 •	150 g dunkle Schokolade  
-•	125 g Butter  
-•	Puderzucker zum Bestäuben 
-•	ev. Sprühsahne und Eis   
+•	125 g Butter    
+•	Puderzucker zum Bestäuben    
+•	ev. Sprühsahne und Eis     
 
 
 # Zubereitung
@@ -29,9 +29,9 @@ Mehl, Zucker und Eier gut verrühren.
 Schokolade mit der Butter in einer Pfanne schmelzen und anschließend unter die Masse rühren.  
 Teig in die vorbereitete Form geben und glatt streichen. 
 
-Die Form in der unteren Hälfte des BAckofens für ca. 11 Minuten backen.  
+Die Form in der unteren Hälfte des Backofens für ca. 11 Minuten backen.  
 Nach dem Herausnehmen leicht abkühlen lassen. Lauwarm mit Puderzucker bestäuben und genießen. 
 
-Tipp: Schmeckt besonders gut mit Sahne und Eiscreme.
-Hinweis: Der Kuchen sollte innen noch feucht sein.  
+Tipp: Schmeckt besonders gut mit Sahne und Eiscreme.  
+Hinweis: Der Kuchen sollte innen noch feucht sein.   
 Haltbarkeit: In Alufolie verpackt im Kühlschrank ca. 1 Tag.              
