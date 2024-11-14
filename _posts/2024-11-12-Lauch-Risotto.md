@@ -40,5 +40,4 @@ Zunächst Schalotte, Knoblauch und Lauch klein schneiden und in der Butter in 5 
 Nun den Reis dazu geben und so oft wenden, bis jedes Korn von der Butter benetzt ist. 
 Jetzt wird die Temperatur leicht erhöht und der Wein angegossen, der unter Rühren ganz verdampfen muss. Nun fügt man den Safran zu.
 Kellenweise die heiße Brühe zugeben und unter ständigem Rühren immer wieder beinahe einkochen lassen; dies dauert ca. 25 Minuten.  
-Am Ende die kalten Butterwürfel und den geriebenen Parmesan unter das Risotto rühren und mit Salz und Pfeffer abschmecken.  
-Das Risotto vorm Servieren 3 Minuten mit geschlossenem Deckel ruhen lassen. 
+Am Ende die kalten Butterwürfel und den geriebenen Parmesan unter das Risotto rühren und mit Salz und Pfeffer abschmecken. Das Risotto vorm Servieren 3 Minuten mit geschlossenem Deckel ruhen lassen. 
