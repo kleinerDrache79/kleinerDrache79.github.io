@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Käsefondue (Franz)
-tags: [Fondue]
+tags: [Fondue, Käse]
 categories: Hauptgang
 ---
 
