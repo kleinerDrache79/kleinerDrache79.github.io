@@ -1,6 +1,6 @@
 ---
 layout: post
-title: cremige Polenta mit Hackfleisch-Kürbis-Ragout
+title: Cremige Polenta mit Hackfleisch-Kürbis-Ragout
 tags: [Polenta, Hackfleisch, Pilze, Kürbis]
 categories: Hauptgang
 ---
