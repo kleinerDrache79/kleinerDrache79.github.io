@@ -6,7 +6,7 @@ categories: Hauptgang
 ---
 
 
-Bild folgt...
+![Lauch-Risotto](/assets/images/Lauch-Risotto.jpg)
 
 | ARBEITSZEIT | KOCH-/BACKZEIT | RUHEZEIT | PORTIONEN |
 |--------------|--------------|--------------|--------------|
