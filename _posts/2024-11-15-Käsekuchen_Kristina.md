@@ -10,8 +10,8 @@ Bild folgt...
 
 | ARBEITSZEIT | KOCH-/BACKZEIT | RUHEZEIT | PORTIONEN |
 |--------------|--------------|--------------|--------------|
-| 30 Minuten | 60 Minuten | - | 6 Personen |
-|| 170°C Umluft |||
+| 30 Minuten | 35 Minuten | 7 Stunden | 6 Personen |
+|| 175°C O/U |||
 
 ## Zutaten
 ### Für den Boden
