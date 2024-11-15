@@ -38,7 +38,7 @@ Die Birnen auf dem Teig verteilen und mit Zimt bestäuben.
 
 Die restlichen Zutaten mit dem Schneebesen verquirlen und über die Birnen geben.
 
-Die Tarte im Ofen bei 180-200°C ca. 35 min backen. Der Kuchen soll recht hell bleiben, die Füllung gerade fest. 
+Die Tarte im Ofen bei 180-200°C O/U ca. 35 min backen. Der Kuchen soll recht hell bleiben, die Füllung gerade fest. 
 
 Tipp:	Zu Beginn Tarte kurze Zeit bei Umluft backen, um zu verhindern, dass die Füllung ausläuft. 
 Variante:	frische Äpfel (im Backofen vorbacken) ist eine sehr leckere Alternative zu den Birnen!
