@@ -13,8 +13,8 @@ categories: Hauptgang
 | 10 Minuten | 30 Minuten | - | 4 Personen |
 
 
-# Zutaten
-## Für das Risotto
+## Zutaten
+### Für das Risotto
 • 300 g Risotto-Reis    
 • 1 Schalotte   
 • 1 Zehe Knoblauch  
@@ -28,13 +28,13 @@ categories: Hauptgang
 • Salz und Pfeffer    
 
 
-## dazu passt... 
+### dazu passt... 
 • Lamm- oder Rindersteacks    
 • Pilze: in Olivenöl mit Knoblauch anbraten und am Ende unter das Risotto ziehen  
 • Salbeisoße: Bratensatz mit Fond und Weißwein ablöschen, Knoblauch und Salbeiblätter dazu geben und 2 EL Butter einrühren.   
 
  
-# Zubereitung
+## Zubereitung
 Die Brühe in einem Topf heiß halten, ohne zu kochen. 
 Zunächst Schalotte, Knoblauch und Lauch klein schneiden und in der Butter in 5 Minuten anschwitzen ohne Farbe. 
 Nun den Reis dazu geben und so oft wenden, bis jedes Korn von der Butter benetzt ist. 

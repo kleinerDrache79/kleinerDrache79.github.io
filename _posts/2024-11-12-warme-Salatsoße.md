@@ -13,7 +13,7 @@ Bild folgt...
 | 5 Minuten | 10 Minuten | - | 4 Personen |
 
 
-# Zutaten
+## Zutaten
 •	8 EL Sonnenblumenöl  
 •	8 EL Balsamicoessig  
 •	ca. 1/2 Tüte Pinienkerne    
@@ -23,7 +23,7 @@ Bild folgt...
 •	Salz, Pfeffer    
   
 
-# Zubereitung
+## Zubereitung
 Das Öl in einer Pfanne erwärmen, die Pinienkerne dazugeben und goldbraun rösten.  
 Knoblauchzehe klein schneiden und hinzufügen.  
 Pfanne kurz vom Herd nehmen und mit dem Balsamico ablöschen.  

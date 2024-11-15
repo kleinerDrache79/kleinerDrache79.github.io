@@ -13,8 +13,8 @@ Bild folgt...
 | 10 Minuten | 30 Minuten | - | 4 Personen |
 
 
-# Zutaten
-## Für das Ragout
+## Zutaten
+### Für das Ragout
 • Öl zum Braten  
 • 500 g Hackfleisch (Rind)  
 • ½ TL Salz  
@@ -31,14 +31,14 @@ Bild folgt...
 • Salz, Pfeffer, nach Bedarf  
 
 
-## Für die Polenta 
+### Für die Polenta 
 • 1 l Wasser  
 • 1 TL Salz  
 • 200 g mittelfeiner Maisgriess  
 • 200 g Mascarpone    
 
  
-# Zubereitung
+## Zubereitung
 Wenig Öl in einer beschichteten Bratpfanne erhitzen und das Hackfleisch darin anbraten. Mit Salt und Pfeffer würzen und herausnehmen. 
 Hitze reduzieren und die feingehackten Zwiebeln, Knoblauch und Rosmarin in derselben Pfanne andämpfen. 
 Den gewürfelten Kürbis, Pilze und Tomatenpüree dazugeben und kurz mitdämpfen. 

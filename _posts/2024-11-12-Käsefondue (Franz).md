@@ -13,8 +13,8 @@ Bild folgt...
 | 10 Minuten | 20 Minuten | - | 4 Personen |
 
 
-# Zutaten
-## Für das Fondue
+## Zutaten
+### Für das Fondue
 •	350 g Greiezer (alt!)  
 •	350 g Appenzeller (jung)  
 •	ca. ¼ Flasche Weißwein (trocken)  
@@ -25,11 +25,11 @@ Bild folgt...
 • Brennpaste  
   
 
-## dazu passt...
+### dazu passt...
 • Feldsalat mit [warmer Salatsoße]({% post_url 2024-11-12-warme-Salatsoße %})  
 
 
-# Zubereitung
+## Zubereitung
 Den Fonduetopf mit Knoblauch ausreiben. Wein in den Topf gießen und bei kleiner Hitze aufkochen lassen.   
 Nun den geriebenen Käse portionsweise hinzugeben und unter ständigem Rühren schmelzen lassen.   
 Den restlichen Knoblauch in Stücke schneiden und zum Käse geben.   

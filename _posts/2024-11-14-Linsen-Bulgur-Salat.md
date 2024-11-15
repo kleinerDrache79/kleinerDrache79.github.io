@@ -13,7 +13,7 @@ Bild folgt...
 | 20 Minuten | 20 Minuten | 60 Minuten | 8 Personen |
 
 
-# Zutaten
+## Zutaten
 •	250 g	Berglinsen  
 •	750 ml Wasser  
 •	150 g	Bulgur, mittelfein  
@@ -34,7 +34,7 @@ Bild folgt...
 •	Peffer und Salz  
 
 
-# Zubereitung
+## Zubereitung
 Die Linsen in ungesalzenem Wasser kurz aufkochen und dann bei schwacher Hitze etwa 10 Minuten sanft köcheln lassen. Den Bulgur hinzufügen und nochmals 5 bis 10 Minuten weiterköcheln. Anschließend vom Herd nehmen und die Mischung ziehen lassen.
 
 Die Frühlingszwiebeln putzen und in feine Ringe schneiden. Die Paprika säubern und würfeln. Die Zwiebeln schälen und fein würfeln. Die Petersilie waschen, trocken tupfen und fein hacken. Den Knoblauch schälen und fein hacken. Die Tomaten waschen, den Strunk entfernen, halbieren, entkernen und das Fruchtfleisch in kleine Würfel schneiden.

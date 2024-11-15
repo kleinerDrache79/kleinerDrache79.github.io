@@ -13,7 +13,7 @@ Bild folgt...
 | 10 Minuten | - | 1 | 4 Personen |
 
 
-# Zutaten
+## Zutaten
 • ½ TL Salz  
 • 1 TL Senf (nicht den scharfen, sticht sonst durch)  
 • 1 ½ TL Honig  
@@ -26,7 +26,7 @@ Bild folgt...
 
 
 
-# Zubereitung
+## Zubereitung
 Man nehme einen schlanken Becher und einen Stabmixer.
 Salz, Senf, Honig, Chiliflocken/ Petersilie/ Koriander nach Gusto, Knoblauchzehen und das Ei ordentlich durchmixen.  
 Erst dann (kann sonst wohl gerinnen) den Balsamico-Essig und Zitronensaft dazu geben. Zum Schluss das Öl langsam auffüllen und dabei ebenfalls gut durchmixen.  

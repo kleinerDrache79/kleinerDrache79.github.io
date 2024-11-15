@@ -13,7 +13,7 @@ Bild folgt...
 | 20 Minuten | 40 Minuten | 30 Minuten | 4 Personen |
 || 175°C O/U |||
 
-# Zutaten
+## Zutaten
 •	400 g Mehl  
 •	250 g Zucker  
 •	250 g Butter  
@@ -30,7 +30,7 @@ Bild folgt...
 Zutaten reichen für 1 großen **und** 1 kleinen Kuchen *oder* für ein Kuchenblech!
 
 
-# Zubereitung
+## Zubereitung
 Aus den Zutaten (außer Marmelade und Eigelb) einen Mürbeteig herstellen. Kaltstellen.   
 2/3 des Teiges für den Boden verwenden; ausrollen und in die Form drücken.   
 Die Marmelade darauf streichen (z. B. Zwetschge, Johannisbeere), ev. je Kuchen eine Andere. 

@@ -13,8 +13,8 @@ Bild folgt...
 | 10 Minuten | 30 Minuten | - | 4 Personen |
 
 
-# Zutaten
-## Für die Pasta
+## Zutaten
+### Für die Pasta
 •	500 g Pilze    
 •	500 g Bandnudeln, fein  
 •	200 g Parmesan  
@@ -27,7 +27,7 @@ Bild folgt...
 •	Salz und Pfeffer  
 •	Muskatnuss  
    
-## für die Velouté 
+### für die Velouté 
 •	4 Schalotten  
 •	50 ml Weißwein  
 •	50 ml Wermuth  
@@ -41,7 +41,7 @@ Bild folgt...
   
 
  
-# Zubereitung
+## Zubereitung
 Zuerst die Velouté zubereiten. Hierzu die Schalotten fein würfeln und in Butter glasig anschwitzen, ohne dass sie Farbe annehmen. Mit Weißwein und Wermut ablöschen und vollständig einreduzieren. Dann den Geflügelfond hinzufügen und ebenfalls einkochen lassen. Sahne dazugeben, kurz aufkochen und anschließend mit einem Stabmixer pürieren. Mit Salz, Zucker, Pfeffer, Muskat und einem Spritzer Zitronensaft abschmecken.
 
 Für die Pasta die Nudeln in reichlich Salzwasser al dente kochen, abgießen, aber nicht abschrecken.

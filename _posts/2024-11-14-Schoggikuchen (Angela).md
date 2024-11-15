@@ -13,7 +13,7 @@ Bild folgt...
 | 10 Minuten | 11 Minuten | - | 4 Personen |
 || 250°C O/U |||
 
-# Zutaten
+## Zutaten
 •	125 g Mehl  
 •	200 g Zucker  
 •	3 Eier  
@@ -23,7 +23,7 @@ Bild folgt...
 •	ev. Sprühsahne und Eis     
 
 
-# Zubereitung
+## Zubereitung
 Den Backofen auf 250°C O/U vorheizen.  
 Mehl, Zucker und Eier gut verrühren.  
 Schokolade mit der Butter in einer Pfanne schmelzen und anschließend unter die Masse rühren.  
