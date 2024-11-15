@@ -6,7 +6,7 @@ categories: Nachtisch
 ---
 
 
-![New York Cheesecake](/assets/images/Cheesecake_Frischkäse.jpg)
+Bild folgt...
 
 | ARBEITSZEIT | KOCH-/BACKZEIT | RUHEZEIT | PORTIONEN |
 |--------------|--------------|--------------|--------------|
