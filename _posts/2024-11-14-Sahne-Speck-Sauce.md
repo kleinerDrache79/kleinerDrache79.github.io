@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sahne-Speck-Sauce
-tags: [Salat]
+title: Sahne-Speck-Dressig
+tags: [Salat, Dressing]
 categories: Beilage
 ---
 

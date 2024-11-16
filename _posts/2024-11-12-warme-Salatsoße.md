@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Warme Salatsoße
-tags: [Salat]
+tags: [Salat, Dressing]
 categories: Beilage
 ---
 
