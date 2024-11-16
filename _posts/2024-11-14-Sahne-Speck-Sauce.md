@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Sahne-Speck-Dressig
+title: Sahne-Speck-Dressing
 tags: [Salat, Dressing]
 categories: Beilage
 ---
 
 
-Bild folgt...
+Bild folgt...****
 
 | ARBEITSZEIT | KOCH-/BACKZEIT | RUHEZEIT | PORTIONEN |
 |--------------|--------------|--------------|--------------|
