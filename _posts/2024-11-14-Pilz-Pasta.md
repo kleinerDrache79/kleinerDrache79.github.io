@@ -6,7 +6,7 @@ categories: Hauptgang
 ---
 
 
-Bild folgt...
+![Pilz-Pasta](/assets/images/Pilz-Pasta.jpg)
 
 | ARBEITSZEIT | KOCH-/BACKZEIT | RUHEZEIT | PORTIONEN |
 |--------------|--------------|--------------|--------------|
@@ -16,22 +16,22 @@ Bild folgt...
 ## Zutaten
 ### Für die Pasta
 •	500 g Pilze    
-•	500 g Bandnudeln, fein  
-•	200 g Parmesan  
+•	50 ml Olivenöl  
 •	4 Zweige Rosmarin  
 •	4 Schalotten  
 •	2 Zehen Knoblauch  
 •	100 ml Velouté (siehe unten)  
+•	500 g Bandnudeln, fein  
 •	1 Bund Blattpetersilie  
-•	50 ml Olivenöl  
+•	200 g Parmesan  
 •	Salz und Pfeffer  
 •	Muskatnuss  
    
 ### für die Velouté 
+•	50 g Butter  
 •	4 Schalotten  
 •	50 ml Weißwein  
 •	50 ml Wermuth  
-•	50 g Butter  
 •	500 ml Geflügelfond  
 •	400 ml Sahne  
 •	1 Zitrone  
