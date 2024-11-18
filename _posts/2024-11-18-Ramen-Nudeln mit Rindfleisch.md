@@ -36,7 +36,7 @@ Nudelwasser aufsetzen und Nudeln nach Packungsanweisung kochen.
 Zwiebeln schälen, halbieren und in Halbringe schneiden.  
 Die Chili waschen, entkernen und in kleine Würfel schneiden.
 
-Etwas Sesamöl in einer Pfanne erhitzen und die Zwiebeln darin 2 Minuten anbraten.  
+Etwas Sesamöl in einer großen Pfanne erhitzen und die Zwiebeln darin 2 Minuten anbraten.  
 Ingwer-Knoblauch-Paste und Chili hinzufügen und für weitere 3 Minuten braten, dabei gut umrühren, damit nichts anbrennt. 
 Dann das Hackfleisch dazugeben und alles gut vermengen, bis das Fleisch durchgebraten ist.
 
@@ -45,8 +45,8 @@ In der Zwischenzeit Sojasauce, Hoisin-Sauce, Reisessig und Zucker in einer Schü
 Die vorbereitete Sauce in die Pfanne geben und köcheln lassen, bis sie karamellisiert und dickflüssig wird. 
 Frühlingszwiebeln waschen und schräg in Ringe schneiden.
 
-Nun die Nudeln zusammen mit etwas Kochwasser in die Pfanne geben und gut vermischen, sodass sie vollständig mit der Sauce überzogen sind. 
+Nun die fertigen Nudeln in die Pfanne geben und gut vermischen, sodass sie vollständig mit der Sauce überzogen sind. 
 Weiterhin 2 Minuten kochen lassen.
 
-Die fertigen Ramen mit Frühlingszwiebeln und Sesamsaat anrichten und servieren.
+Die fertigen Ramen mit Frühlingszwiebeln und Sesamsaat vermischen und servieren.
 
