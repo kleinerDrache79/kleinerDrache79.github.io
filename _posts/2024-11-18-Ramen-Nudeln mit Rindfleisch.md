@@ -6,7 +6,7 @@ categories: Hauptgang
 ---
 
 
-Bild folgt...
+![Ramen](/assets/images/Ramen.jpg)
 
 | ARBEITSZEIT | KOCH-/BACKZEIT | RUHEZEIT | PORTIONEN |
 |--------------|--------------|--------------|--------------|
