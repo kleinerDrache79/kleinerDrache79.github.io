@@ -10,7 +10,7 @@ Bild folgt...
 
 | ARBEITSZEIT | KOCH-/BACKZEIT | RUHEZEIT | PORTIONEN |
 |--------------|--------------|--------------|--------------|
-| 15 Minuten | 25 Minuten | - | 4 Personen |  
+| 15 Minuten | 15 Minuten | - | 4 Personen |  
 
 
 
@@ -18,18 +18,18 @@ Bild folgt...
 • 600 g Pak Choi    
 • 1 Chilischote  
 • 1 Bund Frühlingszwiebeln    
-• 1 EL (30 g) Ingwer-Knoblauch-Paste         
+• 1 1/2 EL (50 g) Ingwer-Knoblauch-Paste         
 • 400 g Rindersteak    
 • 2 TL Zucker  
 • 2 EL Pflanzenöl  
 • 2 EL Sesamöl  
-• 2 TL Thai-Chilisauce (Sriracha)  
+• 2 TL Sriracha  
 • 4 EL Sojasauce  
 • Salz & Pfeffer 
   
 
 ## Zubereitung
-Für die Marinade Sojasauce, Thai-Chilisauce und geröstetes Sesamöl in einer Schüssel gut vermischen und beiseitestellen.
+Für die Marinade Sojasauce, Sriracha und Sesamöl in einer Schüssel gut vermischen und beiseitestellen.
 
 Die Chili waschen, längs halbieren, entkernen und anschließend in Halbringe schneiden.
 
