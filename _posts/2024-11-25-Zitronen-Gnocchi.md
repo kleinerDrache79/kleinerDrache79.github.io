@@ -23,7 +23,7 @@ Bild folgt...
 • 4 EL Sonnenblumenöl  
 • 500 g Brokkoli      
 • 4 EL Butter    
-• 20 g Basilikum    
+• 20 g Basilikum (TK)      
 • Salz & Pfeffer & Muskatnuss 
  
   
