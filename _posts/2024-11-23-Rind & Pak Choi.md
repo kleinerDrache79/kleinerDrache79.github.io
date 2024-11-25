@@ -16,8 +16,7 @@ Bild folgt...
 
 ## Zutaten
 • 600 g Pak Choi    
-• 1 Chilischote  
-• 2 Frühlingszwiebeln    
+• 1 Chilischote Frühlingszwiebeln    
 • 1 1/2 EL (50 g) Ingwer-Knoblauch-Paste         
 • 400 g Rindersteak    
 • 2 TL Zucker  
