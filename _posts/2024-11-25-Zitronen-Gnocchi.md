@@ -21,9 +21,9 @@ Bild folgt...
 • 80 g Weizengrieß  
 • 320 g Weizenmehl  
 • 4 EL Sonnenblumenöl  
-• 500 g Brokkoli    
-• 4 EL Butter 
-• 20 g Basilikum  
+• 500 g Brokkoli      
+• 4 EL Butter    
+• 20 g Basilikum    
 • Salz & Pfeffer & Muskatnuss 
  
   
