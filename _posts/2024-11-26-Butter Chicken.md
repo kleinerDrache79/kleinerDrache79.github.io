@@ -19,8 +19,7 @@ Bild folgt...
 • 1 kg Tomaten, grob gehackt  
 • 1 kleine Zwiebel  
 • 30 g Cashewnüsse  
-• 25 g Knoblauch  
-• 25 g Ingwer  
+• 2 EL Ingwer-Knoblauch-Paste  
 • 80 g Butter  
 • 100 g Sahne  
 • 1 TL Zucker  
@@ -51,7 +50,7 @@ Bild folgt...
 Öl in einer Pfanne erhitzen, die Hälfte der Butter hinzufügen und erwärmen.  
 Ganze Gewürze hinzufügen (Zimtstange, Kardamom-Kapseln, Gewürznelken) und kurz anrösten.
 Zwiebel hinzufügen und kurz andünsten.
-Knoblauch und Cashewnüsse hinzufügen und kurz andünsten.
+Ingwer-Knoblauch-Paste und Cashewnüsse hinzufügen und kurz andünsten.
 Tomaten und Salz hinzufügen, und das Gemisch bei mittlerer Hitze mindestens 15 Minuten kochen, bis es matschig wird. Kein Wasser hinzufügen.
 Das Gemisch abkühlen lassen und dann in einem Mixer / Stabmixer pürieren. Alle Gewürze einschließlich Zimtstangen und Kardamom-Kapseln einbeziehen.
 
