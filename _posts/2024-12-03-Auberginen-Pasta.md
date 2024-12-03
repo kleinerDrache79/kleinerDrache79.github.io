@@ -6,11 +6,11 @@ categories: Hauptgang
 ---
 
 
-Bild folgt...
+![Auberginen-Pasta](/assets/images/Auberginen-Pasta.jpg)
 
 | ARBEITSZEIT | KOCH-/BACKZEIT | RUHEZEIT | PORTIONEN |
 |--------------|--------------|--------------|--------------|
-| 10 Minuten | 20 Minuten | 1 | 4 Personen |
+| 10 Minuten | 30 Minuten | - | 4 Personen |
 
 
 
