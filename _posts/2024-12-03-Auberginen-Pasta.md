@@ -13,6 +13,7 @@ Bild folgt...
 | 10 Minuten | 20 Minuten | 1 | 4 Personen |
 
 
+
 ## Zutaten
 • 3 Auberginen  
 • 2 Solo-Knoblauch    
