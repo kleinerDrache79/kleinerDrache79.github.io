@@ -23,6 +23,7 @@ Bild folgt...
 • Salz & Pfeffer  
 • Chillipulver
 
+
 ## Zubereitung
 Die Auberginen in 1x1 cm Würfel schneiden. Solo-Knoblauch grob schneiden. 
 
