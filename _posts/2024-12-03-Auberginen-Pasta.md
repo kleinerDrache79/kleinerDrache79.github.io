@@ -19,7 +19,7 @@ categories: Hauptgang
 • 2 Solo-Knoblauch    
 • 8 EL Olivenöl  
 • 400 ml Sahne  
-• 25 g Basilikum TK    
+• 25 g Basilikum (TK)      
 • 500 g Spaghetti  
 • Salz & Pfeffer  
 • Chillipulver

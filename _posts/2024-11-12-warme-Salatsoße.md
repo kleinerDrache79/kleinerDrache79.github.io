@@ -14,13 +14,13 @@ Bild folgt...
 
 
 ## Zutaten
-•	8 EL Sonnenblumenöl  
-•	8 EL Balsamicoessig  
-•	ca. 1/2 Tüte Pinienkerne    
-•	1 Soloknoblauch     
-•	2 EL Honig    
-•	1 EL Senf  
-•	Salz, Pfeffer    
+• 8 EL Sonnenblumenöl  
+• 8 EL Balsamicoessig  
+• ca. ½ Tüte Pinienkerne    
+• 1 Soloknoblauch     
+• 2 EL Honig    
+• 1 EL Senf  
+• Salz, Pfeffer    
   
 
 ## Zubereitung

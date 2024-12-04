@@ -15,29 +15,29 @@ categories: Hauptgang
 
 ## Zutaten
 ### Für die Pasta
-•	500 g Pilze    
-•	50 ml Olivenöl  
-•	4 Zweige Rosmarin  
-•	4 Schalotten  
-•	2 Zehen Knoblauch  
-•	100 ml Velouté (siehe unten)  
-•	500 g Bandnudeln, fein  
-•	1 Bund Blattpetersilie  
-•	200 g Parmesan  
-•	Salz und Pfeffer  
-•	Muskatnuss  
+• 500 g Pilze    
+• 50 ml Olivenöl  
+• 4 Zweige Rosmarin  
+• 4 Schalotten  
+• 2 Zehen Knoblauch  
+• 100 ml Velouté (siehe unten)  
+• 500 g Bandnudeln, fein  
+• 1 Bund Blattpetersilie  
+• 200 g Parmesan  
+• Salz und Pfeffer  
+• Muskatnuss  
    
 ### für die Velouté 
-•	50 g Butter  
-•	4 Schalotten  
-•	50 ml Weißwein  
-•	50 ml Wermuth  
-•	500 ml Geflügelfond  
-•	400 ml Sahne  
-•	1 Zitrone  
-•	Salz und Pfeffer  
-•	Zucker  
-•	Muskatnuss  
+• 50 g Butter  
+• 4 Schalotten  
+• 50 ml Weißwein  
+• 50 ml Wermuth  
+• 500 ml Geflügelfond  
+• 400 ml Sahne  
+• 1 Zitrone  
+• Salz und Pfeffer  
+• Zucker  
+• Muskatnuss  
   
 
  

@@ -25,9 +25,9 @@ Bild folgt...
 • 1 TL Zucker  
 • 2 g Zimtstange  
 • 1 TL Korianderpulver  
-• 1/2 TL Garam Masala  
-• 1/2 TL Salz  
-• 1/2 TL Kurkumapulver  
+• ½ TL Garam Masala  
+• ½ TL Salz  
+• ½ TL Kurkumapulver  
 • 1 TL Chilipulver (Kashmiri-Chilipulver empfohlen)  
 • 5 grüne Kardamom-Kapseln  
 • 2 TL Korianderblätter  

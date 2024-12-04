@@ -18,7 +18,7 @@ categories: Nachtisch
 •	250 g Zucker  
 •	250 g Butter  
 •	2 Eier  
-•	1/2 Pck. Backpulver  
+•	½ Pck. Backpulver  
 •	1 Pck. Vanillezucker    
 
 Zutaten reichen für 2 Backbleche.
