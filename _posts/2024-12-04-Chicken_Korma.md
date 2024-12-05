@@ -6,11 +6,11 @@ categories: Hauptgang
 ---
 
 
-Bild folgt...
+![Chicken Korma](/assets/images/Chicken_Korma.jpg)
 
 | ARBEITSZEIT | KOCH-/BACKZEIT | RUHEZEIT | PORTIONEN |
 |--------------|--------------|--------------|--------------|
-| 15 Minuten | 30 Minuten | - | 4 Personen |
+| 15 Minuten | 35 Minuten | - | 4 Personen |
 
 
 
@@ -28,7 +28,8 @@ Bild folgt...
 • 1 TL Chiliflocken oder frische Chillis  
 • 1 EL Tomatenpüree  
 • 75 g Mandeln, gemahlen  
-• 250 ml Fleischbrühe  
+• 250 ml Fleischbrühe 
+• 400 ml Sahne  
 
 
 
@@ -43,10 +44,10 @@ Jetzt Fleisch, Knoblauch-Ingwerpaste dazugeben und weitere 4 min unter Rühren d
 
 Die restlichen Gewürze dazugeben, einige Minuten weiterrühren und dabei das Ganze sehr gut durchmischen und durchkochen lassen. 
 
-Tomatenpüree, Mandeln, Brühe und Sahne nacheinander einrühren, aufkochen und bei kleiner Flamme 15-20 min köcheln lassen, bis eine dick-cremige Konsistenz erreicht ist.
+Tomatenpüree, Mandeln, Brühe und Sahne nacheinander einrühren, aufkochen und bei kleiner Flamme 20-25 min köcheln lassen, bis eine dick-cremige Konsistenz erreicht ist.
 
 
-Dazu passen Reis oder Naan-Brot. 
+Dazu passen Reis oder [Naan]({% post_url 2024-11-26-Naan %}) . 
 
 
 

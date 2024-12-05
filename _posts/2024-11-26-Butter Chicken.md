@@ -69,3 +69,6 @@ Joghurt, Chillipulver, Salz, Kurkumapulver, Korianderpulver und Ingwer-Knoblauch
 Hähnchenfleisch in mundgerechte Stücke schneiden und unter die Marinade heben. Optional kann man das Fleisch über Nacht im Kühlschrank marinieren.
 Etwas Pflanzenöl in einer Pfanne erhitzen und das Fleisch darin anbraten. 
 Nachdem das Fleisch gut angebraten ist, die vorbereitet Soße hinzufügen und mindestens 5 Minuten köcheln. 
+
+
+Dazu passen Reis oder [Naan]({% post_url 2024-11-26-Naan %}) . 
