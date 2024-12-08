@@ -6,7 +6,7 @@ categories: Hauptgang
 ---
 
 
-![Lahmacun](/assets/images/Lahmacun.jpg)
+![Tikka Masala](/assets/images/tikka.jpg)
 
 | ARBEITSZEIT | KOCH-/BACKZEIT | RUHEZEIT | PORTIONEN |
 |--------------|--------------|--------------|--------------|
@@ -16,11 +16,12 @@ categories: Hauptgang
 
 ## Zutaten
 ### Zutaten Marinade
-• 500 g Mehl  
 •	800 g Fleisch (Huhn)  
 •	Zitrone  
 •	Salz  
+
 -------------
+
 •	2 TL Kreuzkümmel  
 •	1 EL Garam Masala  
 •	1 EL Paprikapulver  
@@ -29,7 +30,7 @@ categories: Hauptgang
 
 
 ### Zutaten Soße
-•	2 Zwiebel  
+•	2 Zwiebeln  
 •	2 EL Sonnenblumenöl oder Butterschmalz  
 •	10 Kapseln grüner Kardamom  
 •	½ Zimtstange  
