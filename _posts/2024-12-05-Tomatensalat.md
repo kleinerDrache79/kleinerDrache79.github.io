@@ -14,16 +14,16 @@ Bild folgt...
 
 
 ## Zutaten
-• 3 rote Zwiebeln  
-• 2 Avocados  
-• 5 Strauchtomaten  
-• 2 Knoblauchzehen  
-• 1 Zitrone  
-• 1 Schuss Rapsöl  
-• 1 Bund Koriander  
-• 1 Prise Zucker  
-• 1 Prise Salz  
-• Cayennepfeffer   
+* 3 rote Zwiebeln  
+* 2 Avocados  
+* 5 Strauchtomaten  
+* 2 Knoblauchzehen  
+* 1 Zitrone  
+* 1 Schuss Rapsöl  
+* 1 Bund Koriander  
+* 1 Prise Zucker  
+* 1 Prise Salz  
+* Cayennepfeffer   
 
 
 ## Zubereitung

@@ -16,34 +16,34 @@ categories: Hauptgang
 
 ## Zutaten
 ### Zutaten Marinade
-•	800 g Fleisch (Huhn)  
-•	Zitrone  
-•	Salz  
+*	800 g Fleisch (Huhn)  
+*	Zitrone  
+*	Salz  
 
 -------------
 
-•	2 TL Kreuzkümmel  
-•	1 EL Garam Masala  
-•	1 EL Paprikapulver  
-•	150 g Vollmilchjoghurt  
-•	1 gehäufter EL Ingwer-Knoblauch-Paste  
+*	2 TL Kreuzkümmel  
+*	1 EL Garam Masala  
+*	1 EL Paprikapulver  
+*	150 g Vollmilchjoghurt  
+*	1 gehäufter EL Ingwer-Knoblauch-Paste  
 
 
 ### Zutaten Soße
-•	2 Zwiebeln  
-•	2 EL Sonnenblumenöl oder Butterschmalz  
-•	10 Kapseln grüner Kardamom  
-•	½ Zimtstange  
-•	6 Nelken  
-•	2 gehäufter EL Ingwer-Knoblauch-Paste  
-•	1 Dose stückige Tomaten (ca. 800 g)  
-•	1 kleine rote Chilischote (optional)  
-•	1,5 EL Zucker  
-•	1,5 TL Paprikapulver  
-•	3 TL Garam Masala  
-•	150-200 ml Sahne  
-•	20 g Koriander  
-•	Salz und Zitronensaft zum Abschmecken  
+*	2 Zwiebeln  
+*	2 EL Sonnenblumenöl oder Butterschmalz  
+*	10 Kapseln grüner Kardamom  
+*	½ Zimtstange  
+*	6 Nelken  
+*	2 gehäufter EL Ingwer-Knoblauch-Paste  
+*	1 Dose stückige Tomaten (ca. 800 g)  
+*	1 kleine rote Chilischote (optional)  
+*	1,5 EL Zucker  
+*	1,5 TL Paprikapulver  
+*	3 TL Garam Masala  
+*	150-200 ml Sahne  
+*	20 g Koriander  
+*	Salz und Zitronensaft zum Abschmecken  
 
 
 

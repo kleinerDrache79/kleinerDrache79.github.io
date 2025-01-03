@@ -15,18 +15,18 @@ categories: Hauptgang
 
 
 ## Zutaten
-•	800g Hackfleisch, gemischt  
-•	2 große Eier  
-•	2 EL Semmelbrösel  
-•	150g Mozzarella  
-•	100g Tomaten, getrocknet, in Öl eingelegt  
-•	2 EL Schlagsahne  
-•	1 Zwiebel  
-•	3 Knoblauchzehen  
-•	1 EL Petersilie, gehackt  
-•	1 TL Oregano, getrocknet  
-•	1 TL Salz  
-•	Pfeffer  
+*	800g Hackfleisch, gemischt  
+*	2 große Eier  
+*	2 EL Semmelbrösel  
+*	150g Mozzarella  
+*	100g Tomaten, getrocknet, in Öl eingelegt  
+*	2 EL Schlagsahne  
+*	1 Zwiebel  
+*	3 Knoblauchzehen  
+*	1 EL Petersilie, gehackt  
+*	1 TL Oregano, getrocknet  
+*	1 TL Salz  
+*	Pfeffer  
 
 
 
