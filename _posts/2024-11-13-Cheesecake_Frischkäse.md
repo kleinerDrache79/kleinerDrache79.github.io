@@ -15,19 +15,19 @@ categories: Nachtisch
 
 ## Zutaten
 ### Für den Boden
-• 200 g Kekse (z.B. Hobbits)    
-• 100 g Butter, flüssig      
-• Prise Zimt   
+* 200 g Kekse (z.B. Hobbits)    
+* 100 g Butter, flüssig      
+* Prise Zimt   
 
 ### Für die Füllung
-• 800 g Frischkäse    
-• 200 g Zucker  
-• 1 Pck. Vanillezucker  
-• 1 TL Vanillepaste  
-• 200 g Crème fraîche  
-• 1 TL Zitronenabrieb  
-• 2 EL Mehl  
-• 4 mittelgroße Eier   
+* 800 g Frischkäse    
+* 200 g Zucker  
+* 1 Pck. Vanillezucker  
+* 1 TL Vanillepaste  
+* 200 g Crème fraîche  
+* 1 TL Zitronenabrieb  
+* 2 EL Mehl  
+* 4 mittelgroße Eier   
 
   
 ## Zubereitung

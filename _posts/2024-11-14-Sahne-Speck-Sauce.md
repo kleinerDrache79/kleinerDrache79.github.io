@@ -14,12 +14,12 @@ Bild folgt...****
 
 
 ## Zutaten
-•	100 g	Bauchspeck    
-•	1 EL Öl 
-•	50 ml	Balsamico   
-•	250 ml	Sahne     
-•	1 Zehe Knoblauch   
-•	Pfeffer, Muskat     
+*	100 g	Bauchspeck    
+*	1 EL Öl 
+*	50 ml	Balsamico   
+*	250 ml	Sahne     
+*	1 Zehe Knoblauch   
+*	Pfeffer, Muskat     
   
 
 ## Zubereitung

@@ -16,32 +16,32 @@ Bild folgt...
 
 ## Zutaten
 ### Zutaten Grundsoße
-• 1 kg Tomaten, grob gehackt  
-• 1 kleine Zwiebel  
-• 30 g Cashewnüsse  
-• 2 EL Ingwer-Knoblauch-Paste  
-• 80 g Butter  
-• 100 g Sahne  
-• 1 TL Zucker  
-• 2 g Zimtstange  
-• 1 TL Korianderpulver  
-• ½ TL Garam Masala  
-• ½ TL Salz  
-• ½ TL Kurkumapulver  
-• 1 TL Chilipulver (Kashmiri-Chilipulver empfohlen)  
-• 5 grüne Kardamom-Kapseln  
-• 2 TL Korianderblätter  
-• 5 Gewürznelken  
-• Öl zum Braten  
+* 1 kg Tomaten, grob gehackt  
+* 1 kleine Zwiebel  
+* 30 g Cashewnüsse  
+* 2 EL Ingwer-Knoblauch-Paste  
+* 80 g Butter  
+* 100 g Sahne  
+* 1 TL Zucker  
+* 2 g Zimtstange  
+* 1 TL Korianderpulver  
+* ½ TL Garam Masala  
+* ½ TL Salz  
+* ½ TL Kurkumapulver  
+* 1 TL Chilipulver (Kashmiri-Chilipulver empfohlen)  
+* 5 grüne Kardamom-Kapseln  
+* 2 TL Korianderblätter  
+* 5 Gewürznelken  
+* Öl zum Braten  
  
 ### Zutaten Fleischmarinade
-• 3 EL Joghurt  
-• 1/2 TL Chilipulver  
-• 1/2 TL Salz  
-• 1/2 TL Kurkumapulver  
-• 1 TL Korianderpulver  
-• 2 TL Ingwer-Knoblauch-Paste  
-• 400g Hühnchen   
+* 3 EL Joghurt  
+* 1/2 TL Chilipulver  
+* 1/2 TL Salz  
+* 1/2 TL Kurkumapulver  
+* 1 TL Korianderpulver  
+* 2 TL Ingwer-Knoblauch-Paste  
+* 400g Hühnchen   
 
 
 

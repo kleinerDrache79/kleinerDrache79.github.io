@@ -15,16 +15,16 @@ Bild folgt...
 
 
 ## Zutaten
-• 2 Zitronen    
-• 500 g Quark         
-• 2 Eier    
-• 80 g Weizengrieß  
-• 320 g Weizenmehl  
-• 4 EL Sonnenblumenöl  
-• 500 g Brokkoli      
-• 4 EL Butter    
-• 20 g Basilikum (TK)      
-• Salz & Pfeffer & Muskatnuss 
+* 2 Zitronen    
+* 500 g Quark         
+* 2 Eier    
+* 80 g Weizengrieß  
+* 320 g Weizenmehl  
+* 4 EL Sonnenblumenöl  
+* 500 g Brokkoli      
+* 4 EL Butter    
+* 20 g Basilikum (TK)      
+* Salz & Pfeffer & Muskatnuss 
  
   
 

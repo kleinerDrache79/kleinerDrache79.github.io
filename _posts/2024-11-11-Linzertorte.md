@@ -14,18 +14,17 @@ Bild folgt...
 || 175°C O/U |||
 
 ## Zutaten
-•	400 g Mehl  
-•	250 g Zucker  
-•	250 g Butter  
-•	250 g Mandeln, gemahlen  
-•	2 Eier  
-•	1 Pck. Backpulver  
-•	1 Msp. Nelken, gemahlen  
-•	2 TL Kakaopulver  
-•	1 TL Zimt  
-•	Ca. 400 g Marmelade
-  (Zwetschge und/oder Johannisbeere)  
-•	1 Eigelb  
+*	400 g Mehl  
+*	250 g Zucker  
+*	250 g Butter  
+*	250 g Mandeln, gemahlen  
+*	2 Eier  
+*	1 Pck. Backpulver  
+*	1 Msp. Nelken, gemahlen  
+*	2 TL Kakaopulver  
+*	1 TL Zimt  
+*	Ca. 400 g Marmelade (Zwetschge und/oder Johannisbeere)  
+*	1 Eigelb  
 
 Zutaten reichen für 1 großen **und** 1 kleinen Kuchen *oder* für ein Kuchenblech!
 

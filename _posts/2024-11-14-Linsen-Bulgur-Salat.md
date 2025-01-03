@@ -14,24 +14,24 @@ Bild folgt...
 
 
 ## Zutaten
-• 250 g	Berglinsen  
-• 750 ml Wasser  
-• 150 g	Bulgur, mittelfein  
-• 1 Bund Frühlingszwiebeln  
-• 2 Paprikaschoten  
-• 2 Zwiebeln, rot  
-• 4	Tomaten, groß  
-• 1 Bund Petersilie, glatt  
-• 3 Zehen Knoblauch  
-• 4 EL Ajvar, scharf  
-• 3 EL Tomatenmark  
-• 50 ml	Olivenöl  
-• 3 EL Zitronensaft  
-• 1 TL Harissa-Paste  
-• 1 EL Salz  
-• 1 EL Kreuzkümmel   
-• 1 TL Senfkörner   
-• Peffer und Salz  
+* 250 g	Berglinsen  
+* 750 ml Wasser  
+* 150 g	Bulgur, mittelfein  
+* 1 Bund Frühlingszwiebeln  
+* 2 Paprikaschoten  
+* 2 Zwiebeln, rot  
+* 4	Tomaten, groß  
+* 1 Bund Petersilie, glatt  
+* 3 Zehen Knoblauch  
+* 4 EL Ajvar, scharf  
+* 3 EL Tomatenmark  
+* 50 ml	Olivenöl  
+* 3 EL Zitronensaft  
+* 1 TL Harissa-Paste  
+* 1 EL Salz  
+* 1 EL Kreuzkümmel   
+* 1 TL Senfkörner   
+* Peffer und Salz  
 
 
 ## Zubereitung

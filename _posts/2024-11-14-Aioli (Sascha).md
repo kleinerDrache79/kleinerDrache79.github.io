@@ -14,15 +14,15 @@ Bild folgt...
 
 
 ## Zutaten
-• ½ TL Salz  
-• 1 TL Senf (nicht den scharfen, sticht sonst durch)  
-• 1 ½ TL Honig  
-• Chiliflocken/ Petersilie/ Koriander nach Gusto  
-• 4-6 Knoblauchzehen  
-• 1 Ei (komplett!)  
-• 1 EL Balsamico-Essig  
-• 1 Spritzer Zitronensaft  
-• 250 ml Öl (kein Olivenöl!)   
+* ½ TL Salz  
+* 1 TL Senf (nicht den scharfen, sticht sonst durch)  
+* 1 ½ TL Honig  
+* Chiliflocken/ Petersilie/ Koriander nach Gusto  
+* 4-6 Knoblauchzehen  
+* 1 Ei (komplett!)  
+* 1 EL Balsamico-Essig  
+* 1 Spritzer Zitronensaft  
+* 250 ml Öl (kein Olivenöl!)   
 
 
 

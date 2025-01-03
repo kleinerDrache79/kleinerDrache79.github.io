@@ -15,18 +15,18 @@ Bild folgt...
 
 ## Zutaten
 ### Für das Fondue
-• 350 g Greiezer (alt!)  
-• 350 g Appenzeller (jung)  
-• ca. ¼ Flasche Weißwein (trocken)  
-• 1 TL Stärke   
-• 1 EL Kirschwasser  
-• 1 Soloknoblauch  
-• 2 Baguette  
-• Brennpaste  
+* 350 g Greiezer (alt!)  
+* 350 g Appenzeller (jung)  
+* ca. ¼ Flasche Weißwein (trocken)  
+* 1 TL Stärke   
+* 1 EL Kirschwasser  
+* 1 Soloknoblauch  
+* 2 Baguette  
+* Brennpaste  
   
 
 ### dazu passt...
-• Feldsalat mit [warmer Salatsoße]({% post_url 2024-11-12-warme-Salatsoße %})  
+* Feldsalat mit [warmer Salatsoße]({% post_url 2024-11-12-warme-Salatsoße %})  
 
 
 ## Zubereitung

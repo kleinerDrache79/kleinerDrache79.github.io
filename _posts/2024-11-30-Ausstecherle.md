@@ -14,12 +14,12 @@ categories: Nachtisch
 || 200°C O/U |||
 
 ## Zutaten
-•	500 g Mehl  
-•	250 g Zucker  
-•	250 g Butter  
-•	2 Eier  
-•	½ Pck. Backpulver  
-•	1 Pck. Vanillezucker    
+*	500 g Mehl  
+*	250 g Zucker  
+*	250 g Butter  
+*	2 Eier  
+*	½ Pck. Backpulver  
+*	1 Pck. Vanillezucker    
 
 Zutaten reichen für 2 Backbleche.
 

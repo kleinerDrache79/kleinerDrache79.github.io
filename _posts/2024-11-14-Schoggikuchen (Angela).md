@@ -14,13 +14,13 @@ Bild folgt...
 || 250°C O/U |||
 
 ## Zutaten
-•	125 g Mehl  
-•	200 g Zucker  
-•	3 Eier  
-•	150 g dunkle Schokolade  
-•	125 g Butter    
-•	Puderzucker zum Bestäuben    
-•	ev. Sprühsahne und Eis     
+*	125 g Mehl  
+*	200 g Zucker  
+*	3 Eier  
+*	150 g dunkle Schokolade  
+*	125 g Butter    
+*	Puderzucker zum Bestäuben    
+*	ev. Sprühsahne und Eis     
 
 
 ## Zubereitung

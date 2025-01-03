@@ -15,19 +15,19 @@ categories: Hauptgang
 
 
 ## Zutaten
-• 1 Zwiebel  
-• 1 Chilischote  
-• 1 Bund Frühlingszwiebeln    
-• 1 EL (30 g) Ingwer-Knoblauch-Paste         
-• 12 g Sesamsaat    
-• 400 g Hackfleisch, Rind    
-• 240 g Chinesische Eiernudeln      
-• 1 EL Zucker  
-• 2 EL Reisessig   
-• 1 EL Pflanzenöl  
-• 1 EL Sesamöl  
-• 25 ml Hoisin-Sauce  
-• 2 EL Sojasauce      
+* 1 Zwiebel  
+* 1 Chilischote  
+* 1 Bund Frühlingszwiebeln    
+* 1 EL (30 g) Ingwer-Knoblauch-Paste         
+* 12 g Sesamsaat    
+* 400 g Hackfleisch, Rind    
+* 240 g Chinesische Eiernudeln      
+* 1 EL Zucker  
+* 2 EL Reisessig   
+* 1 EL Pflanzenöl  
+* 1 EL Sesamöl  
+* 25 ml Hoisin-Sauce  
+* 2 EL Sojasauce      
   
 
 ## Zubereitung

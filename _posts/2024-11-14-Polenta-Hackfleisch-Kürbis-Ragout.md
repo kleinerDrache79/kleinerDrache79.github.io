@@ -15,27 +15,27 @@ Bild folgt...
 
 ## Zutaten
 ### Für das Ragout
-• Öl zum Braten  
-• 500 g Hackfleisch (Rind)  
-• ½ TL Salz  
-• Pfeffer  
-• 2 Zwiebeln, rot  
-• 2 Knoblauchzehen  
-• 2 Zweiglein Rosmarin  
-• 600 g Kürbis  
-• 25 g getrocknete Steinpilze  
-• 2 EL Tomatenpüree  
-• 2 dl Rotwein  
-• 3 dl Rindsbouillon  
-• ½ dl Aceto balsamico  
-• Salz, Pfeffer, nach Bedarf  
+* Öl zum Braten  
+* 500 g Hackfleisch (Rind)  
+* ½ TL Salz  
+* Pfeffer  
+* 2 Zwiebeln, rot  
+* 2 Knoblauchzehen  
+* 2 Zweiglein Rosmarin  
+* 600 g Kürbis  
+* 25 g getrocknete Steinpilze  
+* 2 EL Tomatenpüree  
+* 2 dl Rotwein  
+* 3 dl Rindsbouillon  
+* ½ dl Aceto balsamico  
+* Salz, Pfeffer, nach Bedarf  
 
 
 ### Für die Polenta 
-• 1 l Wasser  
-• 1 TL Salz  
-• 200 g mittelfeiner Maisgriess  
-• 200 g Mascarpone    
+* 1 l Wasser  
+* 1 TL Salz  
+* 200 g mittelfeiner Maisgriess  
+* 200 g Mascarpone    
 
  
 ## Zubereitung

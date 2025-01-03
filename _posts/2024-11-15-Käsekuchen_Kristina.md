@@ -15,25 +15,25 @@ Bild folgt...
 
 ## Zutaten
 ### Für den Boden
-• 200 g kalte Butter, in Stückchen geschnitten    
-• 300 g Mehl      
-• 2 Eigelbe  
-• 100 g Puderzucker  
-• 1 Pck. Vanillezucker  
-• 1 Prise Salz  
-• etwas Abrieb einer Zitrone  
+* 200 g kalte Butter, in Stückchen geschnitten    
+* 300 g Mehl      
+* 2 Eigelbe  
+* 100 g Puderzucker  
+* 1 Pck. Vanillezucker  
+* 1 Prise Salz  
+* etwas Abrieb einer Zitrone  
 
 
 ### Für die Füllung
-• 300 g Quark 40%      
-• 200 g Sahne    
-• 120 g Zucker  
-• 1 TL Vanillepaste  
-• Saft und Zesten einer halben Zitrone  
-• 25 g Maisstärke  
-• 2 Eigelbe  
-• 1 Prise Salz  
-• 1 Eigelb + 50 ml Milch zum Bestreichen     
+* 300 g Quark 40%      
+* 200 g Sahne    
+* 120 g Zucker  
+* 1 TL Vanillepaste  
+* Saft und Zesten einer halben Zitrone  
+* 25 g Maisstärke  
+* 2 Eigelbe  
+* 1 Prise Salz  
+* 1 Eigelb + 50 ml Milch zum Bestreichen     
 
 
 ## Zubereitung

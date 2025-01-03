@@ -15,19 +15,19 @@ Bild folgt...
 
 ## Zutaten
 ### Für den Boden
-• 250 g Mehl    
-• 60 g Zucker        
-• 2 EL saure Sahne  
-• 1 Ei  
-• 1 Prise Salz  
-• 125 g Butter     
+* 250 g Mehl    
+* 60 g Zucker        
+* 2 EL saure Sahne  
+* 1 Ei  
+* 1 Prise Salz  
+* 125 g Butter     
 
 ### Für die Füllung
-• 1 große Dose Birnen (oder 6 Äpfel)   
-• 3 Eier    
-• 250 ml süße Sahne  
-• Rest der sauren Sahne (ca. 120 g)  
-• 2 EL Zucker    
+* 1 große Dose Birnen (oder 6 Äpfel)   
+* 3 Eier    
+* 250 ml süße Sahne  
+* Rest der sauren Sahne (ca. 120 g)  
+* 2 EL Zucker    
 
   
 ## Zubereitung

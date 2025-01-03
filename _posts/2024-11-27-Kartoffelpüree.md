@@ -14,11 +14,11 @@ Bild folgt...
 
 
 ## Zutaten
-• 1.000 g Kartoffeln (mehlig kochend)  
-• 320 ml Milch  
-• 80 g Butter  
-• ½ TL Salz  
-• 2 Prisen Muskatnuss  
+* 1.000 g Kartoffeln (mehlig kochend)  
+* 320 ml Milch  
+* 80 g Butter  
+* ½ TL Salz  
+* 2 Prisen Muskatnuss  
 
 
 ## Zubereitung
